@@ -1,0 +1,38 @@
+.estilo-div-pai{
+    height: 300px;
+    color: grey;
+}
+
+.display-flex1{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    gap: 20px;
+    margin: 20px;
+    margin-left: auto;
+    height: 60px;
+    width: 450px;
+}
+
+.flex1{
+    flex: 1;
+    color: black ;
+    background-color: rgb(218, 126, 190);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.flex2{
+    flex: 1;
+    color: black;
+    background-color: rgb(218, 126, 190);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.flex3{
+    flex: 1;
+    color: black;
+    background-color: rgb(218, 126, 190);
+    padding: 20px;
+    border-radius: 8px;
+}
